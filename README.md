@@ -1,4 +1,4 @@
-# rep_structure
+# Low Dimensional Structure in the Space of Language Representations is Reflected in Brain Responses
 
 ![3D Visualization of Low-Dimensional Language Representation Strucutre](mds_viz.gif)
 
